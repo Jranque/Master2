@@ -1,4 +1,4 @@
 # Master2
-npm install
-npm audit fix
-npm start
+step1 "npm install"
+step2 "npm audit fix"
+step3 "npm start"
