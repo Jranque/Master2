@@ -1,0 +1,88 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+.h2 {
+  text-align: center;
+}
+.myForm {
+  width: 100%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.Mybutton {
+  width: 100%;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: orange;
+}
+
+.myList {
+  list-style: none;
+}
+.ListButton {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 5px 8px;
+  background-color: lightcoral;
+  cursor: pointer;
+  color: #fff;
+}
+.myListButton {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 5px 8px;
+  background-color: #70f5ac;
+  cursor: pointer;
+  color: #fff;
+}
+#container {
+  width: 105%;
+  margin: auto;
+}
+table {
+  border-collapse: collapse;
+  width: 106%;
+  margin: 10px auto;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+tr:hover {
+  background-color: #ddd;
+}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: orange;
+  color: white;
+}
